@@ -1,6 +1,6 @@
 # Мои C++ проекты
 
-Учу с++.
+Учусь с++. Публикую прогресс. 
 
 ## Проекты
 
@@ -10,7 +10,18 @@
 
 ## Как запустить
 
+```powershell (6+) - кроссплатформенный, работает на win, lin, mac. (5.1 and ниже) - только на windows. 
+cd 1inputOutputUtf8RutextConsole
+g++ main.cpp -o 1inputOutputUtf8RutextConsole.exe
+./1inputOutputUtf8RutextConsole.exe
+```
+
 ```bash
-cd 1 InputOutputUtf8RutextConsole
-g++ main.cpp -o InputOutputUtf8RutextConsole.exe
-./InputOutputUtf8RutextConsole
+cd .\folder
+./program.exe
+```
+
+```cmd
+cd folder
+program.exe
+```
