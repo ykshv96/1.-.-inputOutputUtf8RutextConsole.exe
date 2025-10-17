@@ -10,7 +10,7 @@ int main() {
     string answer1;                
     string answer2;      
 
-    cout << "\n1/3 Что такое TCP?\n\n"; 
+    cout << "\n1/4 Что такое TCP?\n\n"; 
     getline(cin, answer1); 
 
     cout << "\nВаш ответ: " << answer1 << endl; // вывод ответа
@@ -20,7 +20,7 @@ int main() {
          << "проверяя их целостность. Используется, когда важна точность и целостность данных, например, при загрузке\n"
          << "веб-страниц или отправке электронной почты.\n" << endl;
 
-    cout << "2/3 Что такое DNS?\n\n";
+    cout << "2/4 Что такое DNS?\n\n";
     getline(cin,answer2);
 
     cout << "\nВаш ответ: " << answer2 << endl;
